@@ -1,0 +1,23 @@
+{
+  "name": "hand-made-food",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomwrankmore/hand-made-food.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomwrankmore/hand-made-food/issues"
+  },
+  "homepage": "https://github.com/tomwrankmore/hand-made-food#readme",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  }
+}
